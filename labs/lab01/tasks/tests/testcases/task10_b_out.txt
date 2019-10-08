@@ -1,0 +1,1 @@
+[('because', 3), ('a', 2), ('you', 1), ('cannot', 1), ('end', 1), ('sentence', 1), ('with', 1), ('is', 1), ('conjunction', 1)]
